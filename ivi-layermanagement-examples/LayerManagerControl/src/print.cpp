@@ -20,6 +20,8 @@
 #include "ilm_control.h"
 #include "LMControl.h"
 
+#include <stdlib>
+
 #include <iostream>
 using std::cout;
 using std::cin;
@@ -28,7 +30,6 @@ using std::endl;
 #include <iomanip>
 using std::dec;
 using std::hex;
-
 
 #include <map>
 using std::map;
